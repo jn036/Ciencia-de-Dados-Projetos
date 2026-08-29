@@ -11,3 +11,6 @@ __pycache__/
 
 # Configurações do VS Code
 .vscode/
+
+# Para arquivos grandes
+.rar
